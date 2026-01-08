@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "6AA41CDB440429D1691958879953FDC1",
+	"FriendlyName": "Extended Titans",
+	"Description": "Adds items which can feed titans, allowing them to be kept longer or event make them permanent.&cf_ugcID=1266751",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/extended-titans",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
